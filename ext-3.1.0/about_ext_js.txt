@@ -1,0 +1,3 @@
+ExtJs downloads are availabe at: http://www.sencha.com/products/extjs3/download/
+
+The code was written to be used with ext js v3.1.0.

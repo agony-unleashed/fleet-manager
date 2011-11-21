@@ -1,0 +1,1452 @@
+405,41,Micro Shield Transporter I,
+406,41,Micro Shield Transporter II,
+443,48,Ship Scanner I,
+447,52,Warp Scrambler I,2
+448,52,Warp Scrambler II,2
+450,53,Gatling Pulse Laser I,
+451,53,Dual Light Pulse Laser I,
+452,53,Dual Light Beam Laser I,
+453,53,Medium Pulse Laser I,
+454,53,Medium Beam Laser I,
+455,53,Quad Light Beam Laser I,
+456,53,Focused Medium Pulse Laser I,
+457,53,Focused Medium Beam Laser I,
+458,53,Heavy Pulse Laser I,
+459,53,Heavy Beam Laser I,
+460,53,Dual Heavy Pulse Laser I,
+461,53,Dual Heavy Beam Laser I
+462,53,Mega Pulse Laser I
+463,53,Mega Beam Laser I
+464,53,Tachyon Beam Laser I
+484,55,125mm Gatling AutoCannon I
+485,55,150mm Light AutoCannon I
+486,55,200mm AutoCannon I
+487,55,250mm Light Artillery Cannon I
+488,55,280mm Howitzer Artillery I
+489,55,Dual 180mm AutoCannon I
+490,55,220mm Vulcan AutoCannon I
+491,55,425mm AutoCannon I
+492,55,650mm Artillery Cannon I
+493,55,720mm Howitzer Artillery I
+494,55,Dual 425mm AutoCannon I
+495,55,Dual 650mm Repeating Artillery I
+496,55,800mm Repeating Artillery I
+497,55,1200mm Artillery Cannon I
+498,55,1400mm Howitzer Artillery I
+518,59,Basic Gyrostabilizer
+519,59,Gyrostabilizer II
+520,59,Gyrostabilizer I
+521,60,Basic Damage Control
+526,65,Stasis Webifier I
+527,65,Stasis Webifier II
+533,71,Small Energy Neutralizer I
+561,74,75mm Gatling Rail I
+562,74,Light Electron Blaster I
+563,74,Light Ion Blaster I
+564,74,Light Neutron Blaster I
+565,74,150mm Railgun I
+566,74,Heavy Electron Blaster I
+567,74,Dual 150mm Railgun I,
+568,74,Heavy Neutron Blaster I,
+569,74,Heavy Ion Blaster I,
+570,74,250mm Railgun I,
+571,74,Electron Blaster Cannon I,
+572,74,Dual 250mm Railgun I,
+573,74,Neutron Blaster Cannon I,
+574,74,425mm Railgun I,
+575,74,Ion Blaster Cannon I,
+1855,48,Ship Scanner II,
+1893,205,Basic Heat Sink,
+1894,71,Energy Neutralizer II,
+1948,201,ECM - Ion Field Projector I,4
+1952,212,Sensor Booster II,
+1955,201,ECM - Spatial Destabilizer I,1
+1956,201,ECM - White Noise Generator I,3
+1957,201,ECM - Multispectral Jammer I,5
+1958,201,ECM - Phase Inverter I,2
+1973,212,Sensor Booster I,
+2046,60,Damage Control I,
+2048,60,Damage Control II,
+2363,205,Heat Sink I,
+2364,205,Heat Sink II,
+2559,201,ECM - Phase Inverter II,2
+2563,201,ECM - Ion Field Projector II,4
+2567,201,ECM - Multispectral Jammer II,5
+2571,201,ECM - Spatial Destabilizer II,1
+2575,201,ECM - White Noise Generator II,3
+2865,55,1200mm Artillery Cannon II,
+2873,55,125mm Gatling AutoCannon II,
+2881,55,150mm Light AutoCannon II,
+2889,55,200mm AutoCannon II,
+2897,55,220mm Vulcan AutoCannon II
+2905,55,250mm Light Artillery Cannon II
+2913,55,425mm AutoCannon II
+2921,55,650mm Artillery Cannon II
+2929,55,800mm Repeating Artillery II
+2937,55,Dual 180mm AutoCannon II
+2945,55,Dual 425mm AutoCannon II
+2953,55,Dual 650mm Repeating Artillery II
+2961,55,1400mm Howitzer Artillery II
+2969,55,720mm Howitzer Artillery II
+2977,55,280mm Howitzer Artillery II
+2985,53,Dual Heavy Beam Laser II
+2993,53,Dual Light Beam Laser II
+3001,53,Dual Light Pulse Laser II
+3009,53,Focused Medium Beam Laser II
+3017,53,Gatling Pulse Laser II
+3025,53,Heavy Beam Laser II
+3033,53,Medium Beam Laser II
+3041,53,Medium Pulse Laser II
+3049,53,Mega Beam Laser II
+3057,53,Mega Pulse Laser II
+3065,53,Tachyon Beam Laser II
+3074,74,150mm Railgun II
+3082,74,250mm Railgun II
+3090,74,425mm Railgun II
+3098,74,75mm Gatling Rail II
+3106,74,Dual 150mm Railgun II
+3114,74,Dual 250mm Railgun II
+3122,74,Electron Blaster Cannon II
+3130,74,Heavy Electron Blaster II
+3138,74,Heavy Ion Blaster II
+3146,74,Heavy Neutron Blaster II
+3154,74,Ion Blaster Cannon II,
+3162,74,Light Electron Blaster II,
+3170,74,Light Ion Blaster II,
+3178,74,Light Neutron Blaster II,
+3186,74,Neutron Blaster Cannon II,
+3242,52,Warp Disruptor I,1
+3244,52,Warp Disruptor II,1
+3285,53,Quad Light Beam Laser II,
+3512,53,Focused Medium Pulse Laser II,
+3520,53,Heavy Pulse Laser II,
+3586,41,Small Shield Transporter I,
+3588,41,Small Shield Transporter II,
+3596,41,Medium Shield Transporter I,
+3598,41,Medium Shield Transporter II,
+3606,41,Large Shield Transporter I,
+3608,41,Large Shield Transporter II,
+3616,41,Capital Shield Transporter I
+3618,41,Capital Shield Transporter II
+3634,53,Civilian Gatling Pulse Laser
+3636,53,Civilian Gatling Autocannon
+3638,53,Civilian Gatling Railgun
+3640,53,Civilian Light Electron Blaster
+4025,65,X5 Prototype I Engine Enervator
+4027,65,Fleeting Propulsion Inhibitor I
+4029,65,'Langour' Drive Disruptor I
+4031,65,Patterned Stasis Web I
+4147,53,Dual Heavy Pulse Laser II
+4471,71,5W Infectious Power System Malfunction
+4473,71,Small Rudimentary Energy Destabilizer I
+4475,71,Small Unstable Power Fluctuator I
+4477,71,Small 'Gremlin' Power Core Disruptor I
+5175,53,Gatling Modal Laser I
+5177,53,Gatling Afocal Maser I,
+5179,53,Gatling Modulated Energy Beam I,
+5181,53,Gatling Anode Particle Stream I,
+5215,53,Dual Modal Pulse Laser I,
+5217,53,Dual Afocal Pulse Maser I,
+5219,53,Dual Modulated Pulse Energy Beam I,
+5221,53,Dual Anode Pulse Particle Stream I,
+5399,52,J5 Prototype Warp Disruptor I,1
+5401,52,Fleeting Warp Disruptor I,1
+5403,52,Faint Warp Disruptor I,1
+5405,52,Initiated Warp Disruptor I,1
+5439,52,J5b Phased Prototype Warp Scrambler I,2
+5441,52,Fleeting Progressive Warp Scrambler I,2
+5443,52,Faint Epsilon Warp Scrambler I,2
+5445,52,Initiated Harmonic Warp Scrambler I,2
+5829,60,GLFF Containment Field,
+5831,60,Interior Force Field Array
+5833,60,Systematic Damage Control
+5835,60,F84 Local Damage System
+5837,60,Pseudoelectron Containment Field I
+5839,60,Internal Force Field Array I
+5841,60,Emergency Damage Control I
+5843,60,F85 Peripheral Damage System I
+5845,205,Heat Exhaust System
+5846,205,Thermal Exhaust System I
+5849,205,Extruded Heat Sink I
+5854,205,Stamped Heat Sink
+5855,205,'Boreas' Coolant System
+5856,205,C3S Convection Thermal Radiator
+5857,205,'Skadi' Coolant System I
+5858,205,C4S Coiled Circuit Thermal Radiator
+5913,59,Hydraulic Stabilization Actuator
+5915,59,Lateral Gyrostabilizer
+5917,59,Stabilized Weapon Mounts
+5919,59,F-M2 Weapon Inertial Suspensor
+5929,59,Pneumatic Stabilization Actuator I
+5931,59,Cross-Lateral Gyrostabilizer I
+5933,59,Counterbalanced Weapon Mounts I
+5935,59,F-M3 Munition Inertial Suspensor
+6157,212,Supplemental Scanning CPU I
+6158,212,Prototype I Sensor Booster
+6159,212,Alumel-Wired I Sensor Augmentation
+6160,212,F-90 Positional Sensor Subroutines
+6525,48,Ta3 Perfunctory Vessel Probe
+6527,48,Rudimentary Ship Scanner I
+6529,48,Speculative Ship Identifier I
+6531,48,Practical Type-E Ship Probe
+6631,53,Dual Modal Light Laser I
+6633,53,Dual Afocal Light Maser I
+6635,53,Dual Modulated Light Energy Beam I
+6637,53,Dual Anode Light Particle Stream I
+6671,53,Medium Modal Pulse Laser I
+6673,53,Medium Afocal Pulse Maser I
+6675,53,Medium Modulated Pulse Energy Beam I
+6677,53,Medium Anode Pulse Particle Stream I
+6715,53,Medium Modal Laser I
+6717,53,Medium Afocal Maser I
+6719,53,Medium Modulated Energy Beam I
+6721,53,Medium Anode Particle Stream I
+6757,53,Quad Modal Light Laser I
+6759,53,Quad Afocal Light Maser I
+6761,53,Quad Modulated Light Energy Beam I
+6763,53,Quad Anode Light Particle Stream I
+6805,53,Focused Modal Pulse Laser I
+6807,53,Focused Afocal Pulse Maser I
+6809,53,Focused Modulated Pulse Energy Beam I
+6811,53,Focused Anode Pulse Particle Stream I
+6859,53,Focused Modal Medium Laser I
+6861,53,Focused Afocal Medium Maser I
+6863,53,Focused Modulated Medium Energy Beam I
+6865,53,Focused Anode Medium Particle Stream I
+6919,53,Heavy Modal Pulse Laser I
+6921,53,Heavy Afocal Pulse Maser I
+6923,53,Heavy Modulated Pulse Energy Beam I
+6925,53,Heavy Anode Pulse Particle Stream I
+6959,53,Heavy Modal Laser I
+6961,53,Heavy Afocal Maser I
+6963,53,Heavy Modulated Energy Beam I
+6965,53,Heavy Anode Particle Stream I
+6999,53,Dual Heavy Modal Pulse Laser I
+7001,53,Dual Heavy Afocal Pulse Maser I
+7003,53,Dual Heavy Modulated Pulse Energy Beam I
+7005,53,Dual Heavy Anode Pulse Particle Stream I
+7043,53,Dual Modal Heavy Laser I
+7045,53,Dual Afocal Heavy Maser I
+7047,53,Dual Modulated Heavy Energy Beam I
+7049,53,Dual Anode Heavy Particle Stream I
+7083,53,Mega Modal Pulse Laser I
+7085,53,Mega Afocal Pulse Maser I
+7087,53,Mega Modulated Pulse Energy Beam I
+7089,53,Mega Anode Pulse Particle Stream I
+7123,53,Mega Modal Laser I
+7125,53,Mega Afocal Maser I
+7127,53,Mega Modulated Energy Beam I
+7131,53,Mega Anode Particle Stream I
+7167,53,Tachyon Modal Laser I
+7169,53,Tachyon Afocal Maser I
+7171,53,Tachyon Modulated Energy Beam I
+7173,53,Tachyon Anode Particle Stream I
+7247,74,75mm Prototype I Gauss Gun
+7249,74,75mm 'Scout' I Accelerator Cannon
+7251,74,75mm Carbide Railgun I
+7253,74,75mm Compressed Coil Gun I
+7287,74,150mm Prototype I Gauss Gun
+7289,74,150mm 'Scout' I Accelerator Cannon
+7291,74,150mm Carbide Railgun I
+7293,74,150mm Compressed Coil Gun I
+7327,74,Dual 150mm Prototype I Gauss Gun
+7329,74,Dual 150mm 'Scout' I Accelerator Cannon
+7331,74,Dual 150mm Carbide Railgun I
+7333,74,Dual 150mm Compressed Coil Gun I
+7367,74,250mm Prototype I Gauss Gun
+7369,74,250mm 'Scout' I Accelerator Cannon
+7371,74,250mm Carbide Railgun I
+7373,74,250mm Compressed Coil Gun I
+7407,74,Dual 250mm Prototype I Gauss Gun
+7409,74,Dual 250mm 'Scout' I Accelerator Cannon
+7411,74,Dual 250mm Carbide Railgun I
+7413,74,Dual 250mm Compressed Coil Gun I
+7447,74,425mm Prototype I Gauss Gun
+7449,74,425mm 'Scout' I Accelerator Cannon
+7451,74,425mm Carbide Railgun I
+7453,74,425mm Compressed Coil Gun I
+7487,74,Modal Light Electron Particle Accelerator I
+7489,74,Limited Light Electron Blaster I
+7491,74,Regulated Light Electron Phase Cannon I
+7493,74,Anode Light Electron Particle Cannon I
+7535,74,Modal Light Ion Particle Accelerator I
+7537,74,Limited Light Ion Blaster I
+7539,74,Regulated Light Ion Phase Cannon I
+7541,74,Anode Light Ion Particle Cannon I
+7579,74,Modal Light Neutron Particle Accelerator I
+7581,74,Limited Light Neutron Blaster I
+7583,74,Regulated Light Neutron Phase Cannon I
+7585,74,Anode Light Neutron Particle Cannon I
+7619,74,Modal Electron Particle Accelerator I
+7621,74,Limited Electron Blaster I
+7623,74,Regulated Electron Phase Cannon I
+7625,74,Anode Electron Particle Cannon I
+7663,74,Modal Ion Particle Accelerator I
+7665,74,Limited Ion Blaster I
+7667,74,Regulated Ion Phase Cannon I
+7669,74,Anode Ion Particle Cannon I
+7703,74,Modal Neutron Particle Accelerator I
+7705,74,Limited Neutron Blaster I
+7707,74,Regulated Neutron Phase Cannon I
+7709,74,Anode Neutron Particle Cannon I
+7743,74,Modal Mega Electron Particle Accelerator I
+7745,74,Limited Electron Blaster Cannon I
+7747,74,Regulated Mega Electron Phase Cannon I
+7749,74,Anode Mega Electron Particle Cannon I
+7783,74,Modal Mega Neutron Particle Accelerator I
+7785,74,Limited Mega Neutron Blaster I
+7787,74,Regulated Mega Neutron Phase Cannon I
+7789,74,Anode Mega Neutron Particle Cannon I
+7827,74,Modal Mega Ion Particle Accelerator I
+7829,74,Limited Mega Ion Blaster I
+7831,74,Regulated Mega Ion Phase Cannon I
+7833,74,Anode Mega Ion Particle Cannon I
+8531,41,Small Murky Shield Screen Transmitter I
+8533,41,Small 'Atonement' I Ward Projector
+8535,41,Small Asymmetric Barrier Transpositioner I
+8537,41,Small S95a Partial Shield Transporter
+8579,41,Medium Murky Shield Screen Transmitter I
+8581,41,Medium 'Atonement' I Ward Projector
+8583,41,Medium Asymmetric Barrier Transpositioner I
+8585,41,Medium S95a Partial Shield Transporter
+8627,41,Micro Murky Shield Screen Transmitter I
+8629,41,Micro 'Atonement' I Ward Projector
+8631,41,Micro Asymmetric Barrier Transpositioner I
+8633,41,Micro S95a Partial Shield Transporter
+8635,41,Large Murky Shield Screen Transmitter I
+8637,41,Large 'Atonement' I Ward Projector
+8639,41,Large Asymmetric Barrier Transpositioner I
+8641,41,Large S95a Partial Shield Transporter
+8683,41,X-Large Murky Shield Screen Transmitter I
+8685,41,X-Large 'Atonement' I Ward Projector
+8687,41,X-Large Asymmetric Barrier Transpositioner I
+8689,41,X-Large S95a Partial Shield Transporter
+8759,55,125mm Light 'Scout' Autocannon I
+8785,55,125mm Light Carbine Repeating Cannon I
+8787,55,125mm Light Gallium I Machine Gun
+8789,55,125mm Light Prototype I Automatic Cannon
+8815,55,150mm Light 'Scout' Autocannon I
+8817,55,150mm Light Carbine Repeating Cannon I
+8819,55,150mm Light Gallium I Machine Gun
+8821,55,150mm Light Prototype I Automatic Cannon
+8863,55,200mm Light 'Scout' Autocannon I
+8865,55,200mm Light Carbine Repeating Cannon I
+8867,55,200mm Light Gallium I Machine Gun
+8869,55,200mm Light Prototype I Automatic Cannon
+8903,55,250mm Light 'Scout' Artillery I
+8905,55,250mm Light Carbine Howitzer I
+8907,55,250mm Light Gallium I Cannon
+8909,55,250mm Light Prototype I Siege Cannon
+9071,55,Dual 180mm 'Scout' Autocannon I
+9073,55,Dual 180mm Carbine Repeating Cannon I
+9091,55,Dual 180mm Gallium I Machine Gun
+9093,55,Dual 180mm Prototype I Automatic Cannon
+9127,55,220mm Medium 'Scout' Autocannon I
+9129,55,220mm Medium Carbine Repeating Cannon I
+9131,55,220mm Medium Gallium I Machine Gun
+9133,55,220mm Medium Prototype I Automatic Cannon
+9135,55,425mm Medium 'Scout' Autocannon I
+9137,55,425mm Medium Carbine Repeating Cannon I
+9139,55,425mm Medium Gallium I Machine Gun
+9141,55,425mm Medium Prototype I Automatic Cannon
+9207,55,650mm Medium 'Scout' Artillery I
+9209,55,650mm Medium Carbine Howitzer I
+9211,55,650mm Medium Gallium I Cannon
+9213,55,650mm Medium Prototype I Siege Cannon
+9247,55,Dual 425mm 'Scout' Autocannon I
+9249,55,Dual 425mm Carbine Repeating Cannon I
+9251,55,Dual 425mm Gallium I Machine Gun
+9253,55,Dual 425mm Prototype I Automatic Cannon
+9287,55,Dual 650mm 'Scout' Repeating Artillery I
+9289,55,Dual 650mm Carbine Repeating Howitzer I
+9291,55,Dual 650mm Gallium I Repeating Cannon
+9293,55,Dual 650mm Prototype I Repeating Siege Cannon
+9327,55,800mm Heavy 'Scout' Repeating Artillery I
+9329,55,800mm Heavy Carbine Repeating Howitzer I
+9331,55,800mm Heavy Gallium I Repeating Cannon
+9333,55,800mm Heavy Prototype I Repeating Siege Cannon
+9367,55,1200mm Heavy 'Scout' Artillery I
+9369,55,1200mm Heavy Carbine Howitzer I
+9371,55,1200mm Heavy Gallium I Cannon
+9373,55,1200mm Heavy Prototype I Artillery
+9377,55,1200mm Heavy Prototype I Siege Cannon
+9411,55,280mm 'Scout' Artillery I
+9413,55,280mm Carbine Howitzer I
+9415,55,280mm Gallium I Cannon
+9417,55,280mm Prototype I Siege Cannon
+9419,55,720mm 'Probe' Artillery I
+9421,55,720mm Cordite Howitzer I
+9451,55,720mm 'Scout' Artillery I
+9453,55,720mm Carbine Howitzer I
+9455,55,720mm Gallium I Cannon
+9457,55,720mm Prototype I Siege Cannon
+9491,55,1400mm 'Scout' Artillery I
+9493,55,1400mm Carbine Howitzer I
+9495,55,1400mm Gallium I Cannon,
+9497,55,1400mm Prototype I Siege Cannon,
+9518,201,Initiated Ion Field ECM I,4
+9519,201,FZ-3 Subversive Spatial Destabilizer ECM,1
+9520,201,'Penumbra' I White Noise ECM,3
+9521,201,Initiated Multispectral ECM I,5
+9522,201,Faint Phase Inversion ECM I,2
+9944,302,Magnetic Field Stabilizer I,
+10188,302,Basic Magnetic Field Stabilizer,
+10190,302,Magnetic Field Stabilizer II,
+10678,74,125mm Railgun I,
+10680,74,125mm Railgun II,
+10688,74,125mm 'Scout' I Accelerator Cannon,
+10690,74,125mm Carbide Railgun I,
+10692,74,125mm Compressed Coil Gun I,
+10694,74,125mm Prototype I Gauss Gun,
+11101,302,Linear Flux Stabilizer I
+11103,302,Insulated Stabilizer Array I
+11105,302,Magnetic Vortex Stabilizer I
+11107,302,Gauss Field Balancer I
+11109,302,Linear Flux Stabilizer
+11111,302,Insulated Stabilizer Array
+11113,302,Magnetic Vortex Stabilizer
+11115,302,Gauss Field Balancer
+11355,325,Small Remote Armor Repair System I
+11357,325,Medium Remote Armor Repair System I
+11359,325,Large Remote Armor Repair System I
+12265,71,Medium Energy Neutralizer I
+12267,71,Medium Energy Neutralizer II
+12269,71,Heavy Energy Neutralizer I
+12271,71,Heavy Energy Neutralizer II
+12344,74,200mm Railgun I
+12346,74,200mm Railgun II
+12354,74,350mm Railgun I
+12356,74,350mm Railgun II
+12604,48,BH Ship Scanner
+13003,71,Small Energy Neutralizer II
+13773,55,Domination 125mm Autocannon
+13774,55,Domination 1200mm Artillery
+13775,55,Domination 1400mm Howitzer Artillery
+13776,55,Domination 150mm Autocannon
+13777,55,Domination 200mm Autocannon
+13778,55,Domination 220mm Autocannon
+13779,55,Domination 250mm Artillery
+13781,55,Domination 280mm Howitzer Artillery
+13782,55,Domination 425mm Autocannon
+13783,55,Domination 650mm Artillery
+13784,55,Domination 720mm Howitzer Artillery
+13785,55,Domination 800mm Repeating Artillery
+13786,55,Domination Dual 180mm Autocannon
+13787,55,Domination Dual 425mm Autocannon
+13788,55,Domination Dual 650mm Repeating Artillery
+13791,53,Dark Blood Dual Heavy Pulse Laser
+13793,53,Dark Blood Dual Heavy Beam Laser
+13795,53,Dark Blood Dual Light Beam Laser
+13797,53,Dark Blood Dual Light Pulse Laser
+13799,53,Dark Blood Focused Medium Beam Laser
+13801,53,Dark Blood Focused Medium Pulse Laser
+13803,53,Dark Blood Gatling Pulse Laser
+13805,53,Dark Blood Heavy Beam Laser
+13807,53,Dark Blood Heavy Pulse Laser
+13809,53,Dark Blood Medium Beam Laser
+13811,53,Dark Blood Medium Pulse Laser
+13813,53,Dark Blood Mega Beam Laser
+13815,53,Dark Blood Mega Pulse Laser
+13817,53,Dark Blood Tachyon Beam Laser
+13819,53,Dark Blood Quad Beam Laser
+13820,53,True Sansha Dual Heavy Beam Laser
+13821,53,True Sansha Dual Heavy Pulse Laser
+13822,53,True Sansha Dual Light Beam Laser
+13823,53,True Sansha Dual Light Pulse Laser
+13824,53,True Sansha Focused Medium Beam Laser
+13825,53,True Sansha Focused Medium Pulse Laser
+13826,53,True Sansha Gatling Pulse Laser
+13827,53,True Sansha Heavy Beam Laser
+13828,53,True Sansha Heavy Pulse Laser
+13829,53,True Sansha Medium Beam Laser
+13830,53,True Sansha Medium Pulse Laser
+13831,53,True Sansha Mega Beam Laser
+13832,53,True Sansha Mega Pulse Laser
+13833,53,True Sansha Quad Beam Laser
+13834,53,True Sansha Tachyon Beam Laser
+13864,74,Shadow Serpentis 125mm Railgun
+13865,74,Dread Guristas 125mm Railgun
+13866,74,Shadow Serpentis 150mm Railgun
+13867,74,Dread Guristas 150mm Railgun
+13868,74,Shadow Serpentis 200mm Railgun
+13870,74,Dread Guristas 200mm Railgun
+13872,74,Shadow Serpentis 250mm Railgun
+13873,74,Dread Guristas 250mm Railgun
+13874,74,Shadow Serpentis 350mm Railgun
+13876,74,Dread Guristas 350mm Railgun
+13878,74,Shadow Serpentis 425mm Railgun
+13879,74,Dread Guristas 425mm Railgun
+13880,74,Shadow Serpentis Dual 150mm Railgun
+13881,74,Dread Guristas Dual 150mm Railgun
+13882,74,Shadow Serpentis Dual 250mm Railgun
+13883,74,Dread Guristas Dual 250mm Railgun
+13884,74,Shadow Serpentis Heavy Electron Blaster
+13885,74,Shadow Serpentis Heavy Ion Blaster
+13886,74,Shadow Serpentis Light Electron Blaster
+13887,74,Shadow Serpentis Light Ion Blaster
+13888,74,Shadow Serpentis Light Neutron Blaster
+13889,74,Shadow Serpentis Electron Blaster Cannon
+13890,74,Shadow Serpentis Ion Blaster Cannon
+13891,74,Shadow Serpentis Neutron Blaster Cannon
+13892,74,Shadow Serpentis Heavy Neutron Blaster
+13893,74,Dread Guristas 75mm Railgun
+13894,74,Shadow Serpentis 75mm Railgun
+13939,59,Domination Gyrostabilizer
+13941,205,Dark Blood Heat Sink
+13943,205,True Sansha Heat Sink
+13945,302,Shadow Serpentis Magnetic Field Stabilizer,
+14160,71,Dark Blood Small Energy Neutralizer,
+14162,71,True Sansha Small Energy Neutralizer,
+14164,71,Dark Blood Medium Energy Neutralizer,
+14166,71,True Sansha Medium Energy Neutralizer,
+14168,71,Dark Blood Heavy Energy Neutralizer,
+14170,71,True Sansha Heavy Energy Neutralizer,
+14236,212,Shadow Serpentis Sensor Booster,
+14242,52,Dark Blood Warp Disruptor,1
+14244,52,Domination Warp Disruptor,1
+14246,52,Dread Guristas Warp Disruptor,1
+14248,52,True Sansha Warp Disruptor,1
+14250,52,Shadow Serpentis Warp Disruptor,1
+14252,52,Dark Blood Warp Scrambler,2
+14254,52,Domination Warp Scrambler,2
+14256,52,Dread Guristas Warp Scrambler,2
+14258,52,True Sansha Warp Scrambler,2
+14260,52,Shadow Serpentis Warp Scrambler,2
+14262,65,Dark Blood Stasis Webifier,
+14264,65,Domination Stasis Webifier,
+14266,65,Dread Guristas Stasis Webifier,
+14268,65,True Sansha Stasis Webifier,
+14270,65,Shadow Serpentis Stasis Webifier,
+14272,74,200mm Carbide Railgun I,
+14274,74,200mm 'Scout' I Accelerator Cannon,
+14276,74,200mm Compressed Coil Gun I,
+14278,74,200mm Prototype I Gauss Gun,
+14280,74,350mm Carbide Railgun I,
+14282,74,350mm 'Scout' I Accelerator Cannon,
+14284,74,350mm Compressed Coil Gun I,
+14286,74,350mm Prototype I Gauss Gun,
+14375,74,Tuvan's Modified Electron Blaster Cannon,
+14377,74,Cormack's Modified Electron Blaster Cannon
+14379,74,Cormack's Modified Ion Blaster Cannon
+14381,74,Tuvan's Modified Ion Blaster Cannon
+14383,74,Tuvan's Modified Neutron Blaster Cannon
+14385,74,Cormack's Modified Neutron Blaster Cannon
+14387,74,Brynn's Modified 350mm Railgun
+14389,74,Setele's Modified 350mm Railgun
+14391,74,Kaikka's Modified 350mm Railgun
+14393,74,Vepas' Modified 350mm Railgun
+14395,74,Estamel's Modified 350mm Railgun
+14397,74,Brynn's Modified 425mm Railgun
+14399,74,Setele's Modified 425mm Railgun
+14401,74,Kaikka's Modified 425mm Railgun
+14403,74,Vepas' Modified 425mm Railgun
+14405,74,Estamel's Modified 425mm Railgun
+14407,74,Brynn's Modified Dual 250mm Railgun
+14409,74,Setele's Modified Dual 250mm Railgun
+14411,74,Kaikka's Modified Dual 250mm Railgun
+14413,74,Vepas' Modified Dual 250mm Railgun
+14415,74,Estamel's Modified Dual 250mm Railgun
+14417,53,Selynne's Modified Dual Heavy Beam Laser
+14419,53,Chelm's Modified Dual Heavy Beam Laser
+14421,53,Raysere's Modified Dual Heavy Beam Laser
+14423,53,Draclira's Modified Dual Heavy Beam Laser
+14425,53,Tairei's Modified Dual Heavy Pulse Laser
+14427,53,Ahremen's Modified Dual Heavy Pulse Laser
+14429,53,Brokara's Modified Dual Heavy Pulse Laser
+14431,53,Vizan's Modified Dual Heavy Pulse Laser
+14433,53,Selynne's Modified Mega Beam Laser
+14435,53,Chelm's Modified Mega Beam Laser
+14437,53,Raysere's Modified Mega Beam Laser
+14439,53,Draclira's Modified Mega Beam Laser
+14441,53,Tairei's Modified Mega Pulse Laser
+14443,53,Ahremen's Modified Mega Pulse Laser
+14445,53,Brokara's Modified Mega Pulse Laser
+14447,53,Vizan's Modified Mega Pulse Laser
+14449,53,Selynne's Modified Tachyon Beam Laser
+14451,53,Chelm's Modified Tachyon Beam Laser
+14453,53,Raysere's Modified Tachyon Beam Laser
+14455,53,Draclira's Modified Tachyon Beam Laser
+14457,55,Mizuro's Modified 800mm Repeating Artillery
+14459,55,Gotan's Modified 800mm Repeating Artillery
+14461,55,Hakim's Modified 1200mm Artillery Cannon
+14463,55,Tobias' Modified 1200mm Artillery Cannon
+14465,55,Hakim's Modified 1400mm Howitzer Artillery
+14467,55,Tobias' Modified 1400mm Howitzer Artillery
+14469,55,Mizuro's Modified Dual 425mm AutoCannon
+14471,55,Gotan's Modified Dual 425mm AutoCannon
+14473,55,Mizuro's Modified Dual 650mm Repeating Artillery,
+14475,55,Gotan's Modified Dual 650mm Repeating Artillery,
+14536,59,Mizuro's Modified Gyrostabilizer,
+14538,59,Hakim's Modified Gyrostabilizer,
+14540,59,Gotan's Modified Gyrostabilizer,
+14542,59,Tobias' Modified Gyrostabilizer,
+14648,65,Mizuro's Modified Stasis Webifier,
+14650,65,Hakim's Modified Stasis Webifier,
+14652,65,Gotan's Modified Stasis Webifier,
+14654,65,Tobias' Modified Stasis Webifier,
+14656,52,Mizuro's Modified Warp Disruptor,1
+14658,52,Hakim's Modified Warp Disruptor,1
+14660,52,Gotan's Modified Warp Disruptor,1
+14662,52,Tobias' Modified Warp Disruptor,1
+14664,52,Mizuro's Modified Warp Scrambler,2
+14666,52,Hakim's Modified Warp Scrambler,2
+14668,52,Gotan's Modified Warp Scrambler,2
+14670,52,Tobias' Modified Warp Scrambler,2
+14800,205,Brokara's Modified Heat Sink,
+14802,205,Tairei's Modified Heat Sink,
+14804,205,Selynne's Modified Heat Sink,
+14806,205,Raysere's Modified Heat Sink,
+14808,205,Vizan's Modified Heat Sink,
+14810,205,Ahremen's Modified Heat Sink,
+14812,205,Chelm's Modified Heat Sink,
+14814,205,Draclira's Modified Heat Sink,
+14832,71,Brokara's Modified Heavy Energy Neutralizer,
+14834,71,Tairei's Modified Heavy Energy Neutralizer,
+14836,71,Selynne's Modified Heavy Energy Neutralizer,
+14838,71,Raysere's Modified Heavy Energy Neutralizer,
+14840,71,Vizan's Modified Heavy Energy Neutralizer,
+14842,71,Ahremen's Modified Heavy Energy Neutralizer,
+14844,71,Chelm's Modified Heavy Energy Neutralizer
+14846,71,Draclira's Modified Heavy Energy Neutralizer
+15144,302,Brynn's Modified Magnetic Field Stabilizer
+15146,302,Tuvan's Modified Magnetic Field Stabilizer
+15148,302,Setele's Modified Magnetic Field Stabilizer
+15150,302,Cormack's Modified Magnetic Field Stabilizer
+15276,212,Brynn's Modified Sensor Booster
+15278,212,Tuvan's Modified Sensor Booster
+15280,212,Setele's Modified Sensor Booster
+15282,212,Cormack's Modified Sensor Booster
+15397,205,Luther Veron's Modified Heat Sink
+15399,53,Luther Veron's Modified Dual Heavy Beam Laser
+15401,53,Luther Veron's Modified Mega Beam Laser
+15403,53,Luther Veron's Modified Tachyon Beam Laser
+15416,302,Naiyon's Modified Magnetic Field Stabilizer
+15419,65,Naiyon's Modified Stasis Webifier
+15421,74,Naiyon's Modified 425mm Railgun,
+15423,74,Naiyon's Modified 350mm Railgun,
+15427,53,Makur's Modified Dual Heavy Beam Laser,
+15429,53,Makur's Modified Mega Beam Laser,
+15431,52,Makur's Modified Warp Disruptor,1
+15433,52,Makur's Modified Warp Scrambler,2
+15435,205,Makur's Modified Heat Sink,
+15443,55,Shaqil's Modified 1200mm Artillery Cannon,
+15445,55,Shaqil's Modified 1400mm Howitzer Artillery,
+15447,59,Shaqil's Modified Gyrostabilizer,
+15794,71,Ammatar Navy Small Energy Neutralizer,
+15796,71,Ammatar Navy Medium Energy Neutralizer,
+15798,71,Ammatar Navy Heavy Energy Neutralizer,
+15800,71,Imperial Navy Small Energy Neutralizer,
+15802,71,Imperial Navy Medium Energy Neutralizer,
+15804,71,Imperial Navy Heavy Energy Neutralizer,
+15806,59,Republic Fleet Gyrostabilizer
+15808,205,Ammatar Navy Heat Sink
+15810,205,Imperial Navy Heat Sink
+15814,74,Caldari Navy Dual 250mm Railgun
+15815,74,Caldari Navy Dual 150mm Railgun
+15816,74,Caldari Navy 75mm Railgun
+15817,74,Caldari Navy 425mm Railgun
+15818,74,Caldari Navy 350mm Railgun
+15820,74,Caldari Navy 250mm Railgun
+15821,74,Caldari Navy 200mm Railgun
+15823,74,Caldari Navy 150mm Railgun
+15824,74,Caldari Navy 125mm Railgun
+15825,74,Federation Navy Neutron Blaster Cannon
+15826,74,Federation Navy Light Neutron Blaster
+15827,74,Federation Navy Light Ion Blaster
+15828,74,Federation Navy Light Electron Blaster
+15829,74,Federation Navy Ion Blaster Cannon
+15830,74,Federation Navy Heavy Neutron Blaster
+15831,74,Federation Navy Heavy Ion Blaster
+15832,74,Federation Navy Heavy Electron Blaster
+15833,74,Federation Navy Electron Blaster Cannon
+15834,74,Federation Navy Dual 250mm Railgun
+15835,74,Federation Navy Dual 150mm Railgun
+15836,74,Federation Navy 75mm Railgun
+15837,74,Federation Navy 425mm Railgun
+15838,74,Federation Navy 350mm Railgun
+15840,74,Federation Navy 250mm Railgun
+15841,74,Federation Navy 200mm Railgun
+15843,74,Federation Navy 150mm Railgun
+15844,74,Federation Navy 125mm Railgun
+15845,53,Ammatar Navy Tachyon Beam Laser
+15846,53,Ammatar Navy Quad Beam Laser
+15847,53,Ammatar Navy Mega Pulse Laser
+15848,53,Ammatar Navy Mega Beam Laser
+15849,53,Ammatar Navy Medium Pulse Laser
+15850,53,Ammatar Navy Medium Beam Laser
+15851,53,Ammatar Navy Heavy Pulse Laser
+15852,53,Ammatar Navy Heavy Beam Laser
+15853,53,Ammatar Navy Gatling Pulse Laser
+15854,53,Ammatar Navy Focused Medium Pulse Laser
+15855,53,Ammatar Navy Focused Medium Beam Laser
+15856,53,Ammatar Navy Dual Light Pulse Laser
+15857,53,Ammatar Navy Dual Light Beam Laser
+15858,53,Ammatar Navy Dual Heavy Pulse Laser
+15859,53,Ammatar Navy Dual Heavy Beam Laser
+15860,53,Imperial Navy Tachyon Beam Laser
+15861,53,Imperial Navy Quad Beam Laser
+15862,53,Imperial Navy Mega Pulse Laser
+15863,53,Imperial Navy Mega Beam Laser,
+15864,53,Imperial Navy Medium Pulse Laser,
+15865,53,Imperial Navy Medium Beam Laser,
+15866,53,Imperial Navy Heavy Pulse Laser,
+15867,53,Imperial Navy Heavy Beam Laser,
+15868,53,Imperial Navy Gatling Pulse Laser,
+15869,53,Imperial Navy Focused Medium Pulse Laser,
+15870,53,Imperial Navy Focused Medium Beam Laser,
+15871,53,Imperial Navy Dual Light Pulse Laser,
+15872,53,Imperial Navy Dual Light Beam Laser,
+15873,53,Imperial Navy Dual Heavy Pulse Laser,
+15874,53,Imperial Navy Dual Heavy Beam Laser,
+15887,52,Caldari Navy Warp Scrambler,2
+15889,52,Caldari Navy Warp Disruptor,1
+15891,52,Republic Fleet Warp Disruptor,1
+15893,52,Republic Fleet Warp Scrambler,2
+15895,302,Federation Navy Magnetic Field Stabilizer
+16046,55,Republic Fleet 125mm Autocannon
+16047,55,Republic Fleet 1200mm Artillery
+16048,55,Republic Fleet 1400mm Howitzer Artillery
+16049,55,Republic Fleet 150mm Autocannon
+16050,55,Republic Fleet 200mm Autocannon
+16051,55,Republic Fleet 220mm Autocannon
+16052,55,Republic Fleet 250mm Artillery
+16053,55,Republic Fleet 280mm Howitzer Artillery
+16054,55,Republic Fleet 425mm Autocannon
+16055,55,Republic Fleet 650mm Artillery
+16056,55,Republic Fleet 720mm Howitzer Artillery
+16057,55,Republic Fleet 800mm Repeating Artillery
+16058,55,Republic Fleet Dual 180mm Autocannon
+16059,55,Republic Fleet Dual 425mm Autocannon
+16060,55,Republic Fleet Dual 650mm Repeating Artillery
+16070,74,Mordus 250mm Railgun,
+16128,53,CONCORD Medium Pulse Laser,
+16129,53,CONCORD Dual Heavy Pulse Laser,
+16131,53,CONCORD Heavy Pulse Laser,
+16132,74,CONCORD 150mm Railgun,
+16133,74,CONCORD 250mm Railgun,
+16134,74,CONCORD 350mm Railgun,
+16140,52,CONCORD Modified Warp Scrambler,2
+16148,55,CONCORD 1200mm Artillery,
+16149,55,CONCORD 650mm Artillery,
+16150,55,CONCORD 200mm Autocannon,
+16433,325,Small I-ax Regenerative Projector,
+16435,325,Small Coaxial Regenerative Projector,
+16437,325,Small 'Arup' I Remote Bulwark Reconstruction,
+16439,325,Small 'Solace' I Remote Bulwark Reconstruction,
+16441,325,Medium I-ax Regenerative Projector,
+16443,325,Medium Coaxial Regenerative Projector
+16445,325,Medium 'Arup' I Remote Bulwark Reconstruction
+16447,325,Medium 'Solace' I Remote Bulwark Reconstruction
+16449,325,Large I-ax Regenerative Projector
+16451,325,Large Coaxial Regenerative Projector
+16453,325,Large 'Arup' I Remote Bulwark Reconstruction
+16455,325,Large 'Solace' I Remote Bulwark Reconstruction
+16465,71,Medium Rudimentary Energy Destabilizer I
+16467,71,Medium 'Gremlin' Power Core Disruptor I
+16469,71,50W Infectious Power System Malfunction
+16471,71,Medium Unstable Power Fluctuator I
+16473,71,Heavy Rudimentary Energy Destabilizer I
+16475,71,Heavy 'Gremlin' Power Core Disruptor I
+16477,71,500W Infectious Power System Malfunction
+16479,71,Heavy Unstable Power Fluctuator I
+17500,65,Caldari Navy Stasis Webifier
+17520,212,Federation Navy Sensor Booster
+17559,65,Federation Navy Stasis Webifier
+18981,325,Coreli C-Type Small Remote Armor Repair System
+18983,325,Coreli B-Type Small Remote Armor Repair System
+18985,325,Coreli A-Type Small Remote Armor Repair System
+18987,325,Corelum C-Type Medium Remote Armor Repair System
+18989,325,Corelum B-Type Medium Remote Armor Repair System
+18991,325,Corelum A-Type Medium Remote Armor Repair System
+19047,325,Centii C-Type Small Remote Armor Repair System
+19049,325,Centii B-Type Small Remote Armor Repair System
+19051,325,Centii A-Type Small Remote Armor Repair System
+19053,325,Centum C-Type Medium Remote Armor Repair System
+19055,325,Centum B-Type Medium Remote Armor Repair System
+19057,325,Centum A-Type Medium Remote Armor Repair System
+19129,41,Gistii C-Type Small Shield Transporter
+19131,41,Gistii B-Type Small Shield Transporter
+19133,41,Gistii A-Type Small Shield Transporter,
+19135,41,Pithi C-Type Small Shield Transporter,
+19137,41,Pithi B-Type Small Shield Transporter,
+19139,41,Pithi A-Type Small Shield Transporter,
+19141,41,Gistum C-Type Medium Shield Transporter,
+19143,41,Gistum B-Type Medium Shield Transporter,
+19145,41,Gistum A-Type Medium Shield Transporter,
+19147,41,Pithum C-Type Medium Shield Transporter,
+19149,41,Pithum B-Type Medium Shield Transporter,
+19151,41,Pithum A-Type Medium Shield Transporter,
+19788,201,Pimp ECM - Multispectral Jammer I,
+19792,52,Pimp Warp Scrambler I,2
+19804,65,Pimp Stasis Webifier I,
+19841,52,Fusion Warp Scrambler I,2
+19843,52,Fusion Warp Scrambler I Meta1,2
+19845,52,Fusion Warp Scrambler I Meta2,2
+19847,52,Fusion Warp Scrambler I Meta3,2
+19849,52,Fusion Warp Scrambler I Meta4,2
+19851,52,Magpulse Warp Scrambler I,2
+19853,52,Magpulse Warp Scrambler I Meta1,2
+19855,52,Magpulse Warp Scrambler I Meta2,2
+19857,52,Magpulse Warp Scrambler I Meta3,2
+19859,52,Magpulse Warp Scrambler I Meta4,2
+19861,52,Ion Warp Scrambler I,2
+19863,52,Ion Warp Scrambler I Meta1,2
+19865,52,Ion Warp Scrambler I Meta2,2
+19867,52,Ion Warp Scrambler I Meta3,2
+19869,52,Ion Warp Scrambler I Meta4,2
+19871,52,Plasma Warp Scrambler I,2
+19873,52,Plasma Warp Scrambler I Meta1,2
+19875,52,Plasma Warp Scrambler I Meta2,2
+19877,52,Plasma Warp Scrambler I Meta3,2
+19879,52,Plasma Warp Scrambler I Meta4,2
+19881,52,Fusion Warp Disruptor I,1
+19883,52,Fusion Warp Disruptor I Meta1,1
+19885,52,Fusion Warp Disruptor I Meta2,1
+19887,52,Fusion Warp Disruptor I Meta3,1
+19889,52,Fusion Warp Disruptor I Meta4,1
+19891,52,Magpulse Warp Disruptor I,1
+19893,52,Magpulse Warp Disruptor I Meta1,1
+19895,52,Magpulse Warp Disruptor I Meta2,1
+19897,52,Magpulse Warp Disruptor I Meta3,1
+19899,52,Magpulse Warp Disruptor I Meta4,1
+19901,52,Ion Warp Disruptor I,1
+19903,52,Ion Warp Disruptor I Meta1,1
+19905,52,Ion Warp Disruptor I Meta2,1
+19907,52,Ion Warp Disruptor I Meta3,1
+19909,52,Ion Warp Disruptor I Meta4,1
+19911,52,Plasma Warp Disruptor I,1
+19913,52,Plasma Warp Disruptor I Meta1,1
+19915,52,Plasma Warp Disruptor I Meta2,1
+19917,52,Plasma Warp Disruptor I Meta3,1
+19919,52,Plasma Warp Disruptor I Meta4,1
+19923,201,Induced Ion Field ECM I,4
+19925,201,Compulsive Ion Field ECM I,4
+19927,201,'Hypnos' Ion Field ECM I,4
+19929,201,Induced Multispectral ECM I,5
+19931,201,Compulsive Multispectral ECM I,5
+19933,201,'Hypnos' Multispectral ECM I,5
+19935,201,Languid Phase Inversion ECM I,2
+19937,201,Halting Phase Inversion ECM I,2
+19939,201,Enfeebling Phase Inversion ECM I,2
+19942,201,FZ-3a Disruptive Spatial Destabilizer ECM,1
+19944,201,CZ-4 Concussive Spatial Destabilizer ECM,1
+19946,201,BZ-5 Neutralizing Spatial Destabilizer ECM,1
+19948,201,'Gloom' I White Noise ECM,3
+19950,201,'Shade' I White Noise ECM,3
+19952,201,'Umbra' I White Noise ECM,3
+19958,74,425mm Railgun III,
+20071,74,Pimp Electron Blaster Cannon I,
+20073,74,Pimp Ion Blaster Cannon I,
+20075,74,Pimp Neutron Blaster Cannon I,
+20081,52,Fusion Warp Disruptor II,1
+20083,52,Magpulse Warp Disruptor II,1
+20085,52,Ion Warp Disruptor II,1
+20087,52,Plasma Warp Disruptor II,1
+20089,52,Fusion Warp Scrambler II,2
+20091,52,Magpulse Warp Scrambler II,2
+20093,52,Ion Warp Scrambler II,2
+20095,52,Plasma Warp Scrambler II,2
+20100,55,TEST armored 800mm Repeating Artillery I,
+20106,74,TEST sigRad reducing Neutron Blaster Cannon I,
+20178,74,Pimp 350mm Railgun I,
+20180,74,Pimp 425mm Railgun I,
+20199,201,Dread Guristas ECM Multispectral Jammer,5
+20201,201,Kaikka's Modified ECM Multispectral Jammer,5
+20203,201,Thon's Modified ECM Multispectral Jammer,5
+20205,201,Vepas' Modified ECM Multispectral Jammer,5
+20207,201,Estamel's Modified ECM Multispectral Jammer,5
+20266,74,Pimp 250mm Railgun I,
+20268,74,Pimp Heavy Electron Blaster I,
+20270,74,Pimp Heavy Ion Blaster I,
+20272,74,Pimp Heavy Neutron Blaster I,
+20274,74,Pimp 200mm Railgun I,
+20336,53,Test XL Tachyon Beam Laser I,
+20340,74,Test XL Blaster Cannon I,
+20355,53,TEST Mega Pulse Laser I,
+20427,74,TEST Shield increasing Railgun I,
+20444,53,Dual Giga Pulse Laser I,
+20446,53,Dual Giga Beam Laser I,
+20448,74,Dual 1000mm Railgun I,
+20450,74,Ion Siege Blaster Cannon I,
+20452,55,6x2500mm Repeating Artillery I,
+20454,55,Quad 3500mm Siege Artillery I,
+20496,53,Test NOS Beam Laser I,
+20573,201,'Marshall' Ion Field Projector,4
+20575,201,'Gambler' Phase Inverter,2
+20577,201,'Plunderer' Spatial Destabilizer,1
+20579,201,'Heist' White Noise Generator,3
+20587,74,150mm 'Musket' Railgun,
+20589,74,250mm 'Flintlock' Railgun,
+20591,74,425mm 'Popper' Railgun,
+21182,55,Gfx_turret_test_P2,
+21184,55,Gfx_turret_test_P1,
+21186,74,Gfx_turret_test_H1,
+21188,74,Gfx_turret_test_H2,
+21190,74,Gfx_turret_test_E2,
+21192,74,Gfx_turret_test_E1,
+21457,53,CCP Hammers Pulse Laser I,
+21486,59,'Kindred' Stabilization Actuator I,
+21488,59,Monophonic Stabilization Actuator I,
+21510,52,Process-Interruptive Warp Disruptor,1
+21512,52,'Delineative' Warp Scrambler,2
+21545,55,200mm Light 'Jolt' Autocannon I,
+21547,55,250mm Light 'Jolt' Artillery I,
+21549,55,280mm 'Jolt' Artillery I,
+21551,55,425mm Medium 'Jolt' Autocannon I,
+21553,55,650mm Medium 'Jolt' Artillery I,
+21555,55,720mm 'Jolt' Artillery I,
+21557,55,800mm Heavy 'Jolt' Repeating Artillery I,
+21559,55,1200mm Heavy 'Jolt' Artillery I,
+21561,55,1400mm 'Jolt' Artillery I,
+22476,52,Warp Prohibitor I,2
+22628,74,Caldari Navy 150mm testgun,
+22893,60,'Gonzo' Damage Control I,
+22899,74,'Corporate' Light Electron Blaster I,
+22901,74,'Dealer' Light Ion Blaster I,
+22903,74,'Racket' Light Neutron Blaster I,
+22905,74,'Slither' Heavy Electron Blaster I,
+22907,74,'Hooligan' Heavy Ion Blaster I,
+22909,74,'Hustler' Heavy Neutron Blaster I,
+22911,74,'Swindler' Electron Blaster Cannon I,
+22913,74,'Felon' Ion Blaster Cannon I,
+22915,74,'Underhand' Neutron Blaster Cannon I,
+22917,302,'Capitalist' Magnetic Field Stabilizer I
+22919,302,'Monopoly' Magnetic Field Stabilizer I
+22947,325,'Beatnik' Small Remote Armor Repair System I
+22949,325,'Love' Medium Remote Armor Repair System I
+22951,325,'Pacifier' Large Remote Armor Repair System I
+23414,325,'Brotherhood' Small Remote Armor Repair System I
+23416,325,'Peace' Large Remote Armor Repair System I
+23418,60,'Radical' Damage Control I
+23815,71,'Caltrop' Small Energy Neutralizer I
+23817,71,'Ditch' Medium Energy Neutralizer I
+23819,71,'Moat' Heavy Energy Neutralizer I
+23834,53,'Mace' Dual Light Beam Laser I
+23836,53,'Longbow' Medium Pulse Laser I
+23838,53,'Gauntlet' Medium Beam Laser I
+23840,53,'Crossbow' Focused Medium Beam Laser I
+23842,53,'Joust' Heavy Pulse Laser I
+23844,53,'Arquebus' Heavy Beam Laser I,
+23846,53,'Halberd' Mega Pulse Laser I,
+23848,53,'Catapult' Mega Beam Laser I,
+23850,53,'Ballista' Tachyon Beam Laser I,
+23900,205,'Mangonel' Heat Sink I,
+23902,205,'Trebuchet' Heat Sink I,
+24360,71,TEST FOR NPC2,
+24569,325,Capital Remote Armor Repair System I,
+24667,201,ECM - test,5
+24686,60,Damage Control Hull Test,
+25256,201,ECM - Ion Field Projector test,5
+25258,201,ECM - Multispectral Jammer test,5
+25260,201,ECM - Phase Inverter test,5
+25262,201,ECM - Spatial Destabilizer test,5
+25361,201,sploit jammer,5
+26831,53,Zrakor's Gatling Pulse Laser,
+26912,325,Small Remote Armor Repair System II,
+26913,325,Medium Remote Armor Repair System II,
+26914,325,Large Remote Armor Repair System II,
+26999,65,TEST Stasis Webifier II,
+28225,53,Test Services Mega Pulse Laser,
+28229,53,Test Services Dual Giga Pulse Laser,
+28232,53,Test Services Mega Pulse Laser 2,
+28514,65,Khanid Navy Stasis Webifier,
+28516,52,Khanid Navy Warp Disruptor,1
+28518,52,Khanid Navy Warp Scrambler,2
+28729,201,Legion ECM Ion Field Projector,4
+28731,201,Legion ECM Multispectral Jammer,5
+28733,201,Legion ECM Phase Inverter,2
+28735,201,Legion ECM Spatial Destabilizer,1
+28737,201,Legion ECM White Noise Generator,3
+30328,65,Civilian Stasis Webifier,
+30839,60,Civilian Damage Control,
+32459,52,Civilian Warp Disruptor,1
+32467,41,Civilian Remote Shield Transporter,
+32469,325,Civilian Remote Armor Repair System,
+582,6,Bantam,Frigate
+583,6,Condor,Frigate
+584,6,Griffin,Frigate
+585,6,Slasher,Frigate
+586,6,Probe,Frigate
+587,6,Rifter,Frigate
+588,6,Reaper,Rookie ship
+589,6,Executioner,Frigate
+590,6,Inquisitor,Frigate
+591,6,Tormentor,Frigate
+592,6,Navitas,Frigate
+593,6,Tristan,Frigate
+594,6,Incursus,Frigate
+595,6,Gallente Police Ship,Frigate
+596,6,Impairor,Rookie ship
+597,6,Punisher,Frigate
+598,6,Breacher,Frigate
+599,6,Burst,Frigate
+600,6,Minmatar Peacekeeper Ship,Frigate
+601,6,Ibis,Rookie ship
+602,6,Kestrel,Frigate
+603,6,Merlin,Frigate
+604,6,Caldari Enforcer Ship,Frigate
+605,6,Heron,Frigate
+606,6,Velator,Rookie ship
+607,6,Imicus,Frigate
+608,6,Atron,Frigate
+609,6,Maulus,Frigate
+610,6,Wraith,Frigate
+611,6,Specter,Frigate
+612,6,Chaos,Frigate
+613,6,Devourer,Frigate
+614,6,Fury,Frigate
+615,6,Styx,Frigate
+616,6,Medusa,Frigate
+617,6,Echo,Frigate
+618,6,Lynx,Frigate
+619,6,Swordspine,Frigate
+620,6,Osprey,Cruiser
+621,6,Caracal,Cruiser
+622,6,Stabber,Cruiser
+623,6,Moa,Cruiser
+624,6,Maller,Cruiser
+625,6,Augoror,Cruiser
+626,6,Vexor,Cruiser
+627,6,Thorax,Cruiser
+628,6,Arbitrator,Cruiser
+629,6,Rupture,Cruiser
+630,6,Bellicose,Cruiser
+631,6,Scythe,Cruiser
+632,6,Blackbird,Cruiser
+633,6,Celestis,Cruiser
+634,6,Exequror,Cruiser
+635,6,Opux Luxury Yacht,Cruiser
+636,6,Ixion,Cruiser
+637,6,Ghoul,Cruiser
+638,6,Raven,Battleship
+639,6,Tempest,Battleship
+640,6,Scorpion,Battleship
+641,6,Megathron,Battleship
+642,6,Apocalypse,Battleship
+643,6,Armageddon,Battleship
+644,6,Typhoon,Battleship
+645,6,Dominix,Battleship
+647,6,Eidolon,Battleship
+648,6,Badger,Industrial
+649,6,Badger Mark II,Industrial
+650,6,Iteron,Industrial
+651,6,Hoarder,Industrial
+652,6,Mammoth,Industrial
+653,6,Wreathe,Industrial
+654,6,Iteron Mark II,Industrial
+655,6,Iteron Mark III,Industrial
+656,6,Iteron Mark IV,Industrial
+657,6,Iteron Mark V,Industrial
+658,6,Visitant,Industrial
+659,6,Capsule Home-201,Capsule
+660,6,Capsule Home-201.7,Capsule
+661,6,Capsule Home-601.5,Capsule
+662,6,Capsule Home-1.401,Capsule
+663,6,Capsule Home-1.501,Capsule
+664,6,Capsule Home-2.201,Capsule
+665,6,Capsule CP-100,Capsule
+666,6,Capsule CP-100B,Capsule
+667,6,Capsule CP-200,Capsule
+668,6,Capsule CP-500,Capsule
+669,6,Capsule CP-900X,Capsule
+670,6,Capsule,Capsule
+671,6,Erebus,Titan
+672,6,Caldari Shuttle,Shuttle
+1233,6,Enigma,Frigate
+1896,6,Concord Police Frigate,Frigate
+1898,6,Concord SWAT Frigate,Frigate
+1900,6,Concord Army Frigate,Frigate
+1902,6,Concord Special Ops Frigate,Frigate
+1904,6,Concord Police Cruiser,Cruiser
+1906,6,Concord Army Cruiser,Cruiser
+1908,6,Concord SWAT Cruiser,Cruiser
+1910,6,Concord Special Ops Cruiser,Cruiser
+1912,6,Concord Police Battleship,Battleship
+1914,6,Concord Special Ops Battleship,Battleship
+1916,6,Concord SWAT Battleship,Battleship
+1918,6,Concord Army Battleship,Battleship
+1944,6,Bestower,Industrial
+2006,6,Omen,Cruiser
+2078,6,Zephyr,Prototype Exploration Ship
+2161,6,Crucifier,Frigate
+2164,6,Arbitrator House Ardishapur,Cruiser
+2166,6,Arbitrator House Tash-Murkon,Cruiser
+2168,6,Arbitrator House Kor-Azor,Cruiser
+3751,6,SOCT 1,Frigate
+3753,6,SOCT 2,Frigate
+3756,6,SOCT Cruiser,Cruiser
+3764,6,Leviathan,Titan
+3766,6,Vigil,Frigate
+3768,6,Amarr Police Frigate,Frigate
+3878,6,Phantom,Cruiser
+9854,6,Polaris Inspector Frigate,Rookie ship
+9858,6,Polaris Centurion,Rookie ship
+9860,6,Polaris Legatus Frigate,Rookie ship
+9862,6,Polaris Centurion Frigate,Rookie ship
+10254,6,Infested Dominix,Battleship
+11011,6,Guardian-Vexor,Cruiser
+11019,6,BH Mega Cargo Ship,Frigate
+11129,6,Gallente Shuttle,Shuttle
+11132,6,Minmatar Shuttle,Shuttle
+11134,6,Amarr Shuttle,Shuttle
+11172,6,Helios,Covert Ops
+11174,6,Keres,Electronic Attack Ship
+11176,6,Crow,Interceptor
+11178,6,Raptor,Interceptor
+11180,6,Rapier Frigate,Assault Ship
+11182,6,Cheetah,Covert Ops
+11184,6,Crusader,Interceptor
+11186,6,Malediction,Interceptor
+11188,6,Anathema,Covert Ops
+11190,6,Sentinel,Electronic Attack Ship
+11192,6,Buzzard,Covert Ops
+11194,6,Kitsune,Electronic Attack Ship
+11196,6,Claw,Interceptor
+11198,6,Stiletto,Interceptor
+11200,6,Taranis,Interceptor
+11202,6,Ares,Interceptor
+11365,6,Vengeance,Assault Ship
+11371,6,Wolf,Assault Ship
+11373,6,Blade,Assault Ship
+11375,6,Erinye,Assault Ship
+11377,6,Nemesis,Stealth Bomber
+11379,6,Hawk,Assault Ship
+11381,6,Harpy,Assault Ship
+11383,6,Gatherer,Assault Ship
+11385,6,Sparrow,Assault Ship
+11387,6,Hyena,Electronic Attack Ship
+11389,6,Kishar,Assault Ship
+11393,6,Retribution,Assault Ship
+11400,6,Jaguar,Assault Ship
+11567,6,Avatar,Titan
+11591,6,AGILITY TEST SHIP,Frigate
+11936,6,Apocalypse Imperial Issue,Battleship
+11938,6,Armageddon Imperial Issue,Battleship
+11940,6,Gold Magnate,Frigate
+11942,6,Silver Magnate,Frigate
+11957,6,Falcon,Force Recon Ship
+11959,6,Rook,Combat Recon Ship
+11961,6,Huginn,Combat Recon Ship
+11963,6,Rapier,Force Recon Ship
+11965,6,Pilgrim,Force Recon Ship
+11969,6,Arazu,Force Recon Ship
+11971,6,Lachesis,Combat Recon Ship
+11973,6,Nocturne,Heavy Assault Ship
+11978,6,Scimitar,Logistics
+11980,6,Drifter,Heavy Assault Ship
+11982,6,Sanctity,Heavy Assault Ship
+11985,6,Basilisk,Logistics
+11987,6,Guardian,Logistics
+11989,6,Oneiros,Logistics
+11991,6,Clotho,Heavy Assault Ship
+11993,6,Cerberus,Heavy Assault Ship
+11995,6,Onyx,Heavy Interdictor
+11997,6,Glaive,Heavy Assault Ship
+11999,6,Vagabond,Heavy Assault Ship
+12003,6,Zealot,Heavy Assault Ship
+12005,6,Ishtar,Heavy Assault Ship
+12007,6,Atropos,Heavy Assault Ship
+12009,6,Obsidian,Heavy Assault Ship
+12011,6,Eagle,Heavy Assault Ship
+12013,6,Broadsword,Heavy Interdictor
+12015,6,Muninn,Heavy Assault Ship
+12017,6,Devoter,Heavy Interdictor
+12019,6,Sacrilege,Heavy Assault Ship
+12021,6,Phobos,Heavy Interdictor
+12023,6,Deimos,Heavy Assault Ship
+12030,6,Manticore OLD,Assault Ship
+12032,6,Manticore,Stealth Bomber
+12034,6,Hound,Stealth Bomber
+12036,6,Dagger,Assault Ship
+12038,6,Purifier,Stealth Bomber
+12040,6,Purifier OLD,Assault Ship
+12042,6,Ishkur,Assault Ship
+12044,6,Enyo,Assault Ship
+12403,6,Atron much HP,Frigate
+12729,6,Crane,Transport Ship
+12731,6,Bustard,Transport Ship
+12733,6,Prorator,Transport Ship
+12735,6,Prowler,Transport Ship
+12743,6,Viator,Transport Ship
+12745,6,Occator,Transport Ship
+12747,6,Mastodon,Transport Ship
+12753,6,Impel,Transport Ship
+13202,6,Megathron Federate Issue,Battleship
+16227,6,Ferox,Battlecruiser
+16229,6,Brutix,Battlecruiser
+16231,6,Cyclone,Battlecruiser
+16233,6,Prophecy,Battlecruiser
+16236,6,Coercer,Destroyer
+16238,6,Cormorant,Destroyer
+16240,6,Catalyst,Destroyer
+16242,6,Thrasher,Destroyer
+17360,6,Immovable Enigma,Frigate
+17476,6,Covetor,Mining Barge
+17478,6,Retriever,Mining Barge
+17480,6,Procurer,Mining Barge
+17619,6,Caldari Navy Hookbill,Frigate
+17634,6,Caracal Navy Issue,Cruiser
+17636,6,Raven Navy Issue,Battleship
+17703,6,Imperial Navy Slicer,Frigate
+17705,6,Khanid Navy Frigate,Frigate
+17707,6,Mordus Frigate,Frigate
+17709,6,Omen Navy Issue,Cruiser
+17711,6,Ammatar Navy Cruiser,Cruiser
+17713,6,Stabber Fleet Issue,Cruiser
+17715,6,Gila,Cruiser
+17718,6,Phantasm,Cruiser
+17720,6,Cynabal,Cruiser
+17722,6,Vigilant,Cruiser
+17724,6,Mordus Cruiser,Cruiser
+17726,6,Apocalypse Navy Issue,Battleship
+17728,6,Megathron Navy Issue,Battleship
+17730,6,Ammatar Navy Battleship,Battleship
+17732,6,Tempest Fleet Issue,Battleship
+17734,6,Mordus Battleship,Battleship
+17736,6,Nightmare,Battleship
+17738,6,Machariel,Battleship
+17740,6,Vindicator,Battleship
+17812,6,Republic Fleet Firetail,Frigate
+17841,6,Federation Navy Comet,Frigate
+17843,6,Vexor Navy Issue,Cruiser
+17918,6,Rattlesnake,Battleship
+17920,6,Bhaalgorn,Battleship
+17922,6,Ashimmu,Cruiser
+17924,6,Succubus,Frigate
+17926,6,Cruor,Frigate
+17928,6,Daredevil,Frigate
+17930,6,Worm,Frigate
+17932,6,Dramiel,Frigate
+19720,6,Revelation,Dreadnought
+19722,6,Naglfar,Dreadnought
+19724,6,Moros,Dreadnought
+19726,6,Phoenix,Dreadnought
+19744,6,Sigil,Industrial
+19770,6,Pimp Vigil,Frigate
+20067,6,Regulator,Heavy Assault Ship
+20122,6,Pimp Brutix,Battlecruiser
+20125,6,Curse,Combat Recon Ship
+20183,6,Providence,Freighter
+20185,6,Charon,Freighter
+20187,6,Obelisk,Freighter
+20189,6,Fenrir,Freighter
+21097,6,Goru's Shuttle,Shuttle
+21628,6,Guristas Shuttle,Shuttle
+22426,6,Elite Apocalypse Khanid,Elite Battleship
+22428,6,Redeemer,Black Ops
+22430,6,Sin,Black Ops
+22432,6,Elite Megathron Duvolle,Elite Battleship
+22434,6,Elite Raven,Elite Battleship
+22436,6,Widow,Black Ops
+22438,6,Elite Tempest Brutor,Elite Battleship
+22440,6,Panther,Black Ops
+22442,6,Eos,Command Ship
+22444,6,Sleipnir,Command Ship
+22446,6,Vulture,Command Ship
+22448,6,Absolution,Command Ship
+22450,6,Elite Catalyst Creodron,Interdictor
+22452,6,Heretic,Interdictor
+22454,6,Elite Cormorant Mordus,Interdictor
+22456,6,Sabre,Interdictor
+22458,6,Elite Thrasher Thukker,Interdictor
+22460,6,Eris,Interdictor
+22462,6,Elite Coercer Carthum,Interdictor
+22464,6,Flycatcher,Interdictor
+22466,6,Astarte,Command Ship
+22468,6,Claymore,Command Ship
+22470,6,Nighthawk,Command Ship
+22472,6,Faction Prophecy Bloodraider,Battlecruiser
+22474,6,Damnation,Command Ship
+22544,6,Hulk,Exhumer
+22546,6,Skiff,Exhumer
+22548,6,Mackinaw,Exhumer
+22579,6,Corvette Prototype Minmatar,Frigate
+22852,6,Hel,Mothership
+23693,6,Test Science Vessel,Freighter
+23757,6,Archon,Carrier
+23773,6,Ragnarok,Titan
+23911,6,Thanatos,Carrier
+23913,6,Nyx,Mothership
+23915,6,Chimera,Carrier
+23917,6,Wyvern,Mothership
+23919,6,Aeon,Mothership
+24448,6,Viziam Prophecy,Command Ship
+24483,6,Nidhoggur,Carrier
+24688,6,Rokh,Battleship
+24690,6,Hyperion,Battleship
+24692,6,Abaddon,Battleship
+24694,6,Maelstrom,Battleship
+24696,6,Harbinger,Battlecruiser
+24698,6,Drake,Battlecruiser
+24700,6,Myrmidon,Battlecruiser
+24702,6,Hurricane,Battlecruiser
+25426,6,Hawk 2,Assault Ship
+25560,6,Opux Dragoon Yacht,Cruiser
+26840,6,Raven State Issue,Battleship
+26842,6,Tempest Tribal Issue,Battleship
+26872,6,Corvette Prototype Amarr,Frigate
+26874,6,Corvette Prototype Gallente,Frigate
+26876,6,Corvette Prototype Caldari,Frigate
+27299,6,Civilian Amarr Shuttle,Shuttle
+27301,6,Civilian Caldari Shuttle,Shuttle
+27303,6,Civilian Gallente Shuttle,Shuttle
+27305,6,Civilian Minmatar Shuttle,Shuttle
+28310,6,Test Gas Barge,Mining Barge
+28352,6,Rorqual,Capital Industrial Ship
+28606,6,Orca,Industrial Command Ship
+28659,6,Paladin,Marauder
+28661,6,Kronos,Marauder
+28665,6,Vargur,Marauder
+28710,6,Golem,Marauder
+28824,6,Test MWD Thorax,Cruiser
+28844,6,Rhea,Jump Freighter
+28846,6,Nomad,Jump Freighter
+28848,6,Anshar,Jump Freighter
+28850,6,Ark,Jump Freighter
+29248,6,Magnate,Frigate
+29266,6,Apotheosis,Shuttle
+29328,6,Amarr Media Shuttle,Shuttle
+29330,6,Caldari Media Shuttle,Shuttle
+29332,6,Gallente Media Shuttle,Shuttle
+29334,6,Minmatar Media Shuttle,Shuttle
+29336,6,Scythe Fleet Issue,Cruiser
+29337,6,Augoror Navy Issue,Cruiser
+29340,6,Osprey Navy Issue,Cruiser
+29344,6,Exequror Navy Issue,Cruiser
+29984,6,Tengu,Strategic Cruiser
+29986,6,Legion,Strategic Cruiser
+29988,6,Proteus,Strategic Cruiser
+29990,6,Loki,Strategic Cruiser
+30842,6,Interbus Shuttle,Shuttle
+32207,6,Freki,Assault Ship
+32209,6,Mimir,Heavy Assault Ship
+32305,6,Armageddon Navy Issue,Battleship
+32307,6,Dominix Navy Issue,Battleship
+32309,6,Scorpion Navy Issue,Battleship
+32311,6,Typhoon Fleet Issue,Battleship
+530,68,Small Nosferatu I,
+1188,68,Nosferatu II,
+5135,68,E5 Prototype Energy Vampire
+5137,68,Small 'Knave' I Energy Drain
+5139,68,Small Diminishing Power System Drain I
+5141,68,Small 'Ghoul' Energy Siphon I
+12257,68,Medium Nosferatu I
+12259,68,Medium Nosferatu II
+12261,68,Heavy Nosferatu I
+12263,68,Heavy Nosferatu II
+13001,68,Small Nosferatu II
+14148,68,Dark Blood Small Nosferatu
+14150,68,True Sansha Small Nosferatu
+14152,68,Dark Blood Heavy Nosferatu
+14154,68,True Sansha Heavy Nosferatu
+14156,68,Dark Blood Medium Nosferatu
+14158,68,True Sansha Medium Nosferatu
+14816,68,Brokara's Modified Heavy Nosferatu
+14818,68,Tairei's Modified Heavy Nosferatu
+14820,68,Selynne's Modified Heavy Nosferatu
+14822,68,Raysere's Modified Heavy Nosferatu
+14824,68,Vizan's Modified Heavy Nosferatu
+14826,68,Ahremen's Modified Heavy Nosferatu
+14828,68,Chelm's Modified Heavy Nosferatu
+14830,68,Draclira's Modified Heavy Nosferatu
+15451,68,Shaqil's Modified Heavy Nosferatu
+15875,68,Ammatar Navy Small Nosferatu
+15877,68,Ammatar Navy Medium Nosferatu
+15879,68,Ammatar Navy Heavy Nosferatu
+15881,68,Imperial Navy Small Nosferatu
+15883,68,Imperial Navy Medium Nosferatu
+15885,68,Imperial Navy Heavy Nosferatu
+16497,68,Heavy 'Ghoul' Energy Siphon I
+16499,68,Heavy 'Knave' I Energy Drain
+16501,68,E500 Prototype Energy Vampire
+16503,68,Heavy Diminishing Power System Drain I
+16505,68,Medium 'Ghoul' Energy Siphon I
+16507,68,Medium 'Knave' I Energy Drain
+16509,68,E50 Prototype Energy Vampire
+16511,68,Medium Diminishing Power System Drain I
+19101,68,Corpii C-Type Small Nosferatu
+19103,68,Corpii B-Type Small Nosferatu
+19105,68,Corpii A-Type Small Nosferatu
+19107,68,Corpum C-Type Medium Nosferatu
+19109,68,Corpum B-Type Medium Nosferatu
+19111,68,Corpum A-Type Medium Nosferatu
+19113,68,Corpus C-Type Heavy Nosferatu
+19115,68,Corpus B-Type Heavy Nosferatu
+19117,68,Corpus A-Type Heavy Nosferatu
+19119,68,Corpus X-Type Heavy Nosferatu
+23821,68,'Upir' Small Nosferatu I
+23824,68,'Strigoi' Medium Nosferatu I
+23829,68,'Vrykolakas' Heavy Nosferatu I
+24359,68,TEST FOR NPC
+1968,208,Remote Sensor Dampener I
+1969,208,Remote Sensor Dampener II
+5299,208,Low Frequency Sensor Suppressor I
+5300,208,Indirect Scanning Dampening Unit I
+5301,208,Kapteyn Sensor Array Inhibitor I
+5302,208,Phased Muon Sensor Disruptor I
+19790,208,DELETE Pimp Remote Sensor Dampener I 
+22943,208,'Broker' Remote Sensor Dampener I
+22945,208,'Executive' Remote Sensor Dampener I
+32413,208,Shadow Serpentis Remote Sensor Dampener
+2108,291,Tracking Disruptor I
+2109,291,Tracking Disruptor II
+5319,291,F-392 Baker Nunn Tracking Disruptor I
+5320,291,Balmer Series Tracking Disruptor I
+5321,291,'Abandon' Tracking Disruptor I
+5322,291,DDO Photometry Tracking Disruptor I
+22931,291,'Distributor' Tracking Disruptor I
+22933,291,'Investor' Tracking Disruptor I
+32416,291,Dark Blood Tracking Disruptor
+32417,291,True Sansha Tracking Disruptor
+12709,379,Target Painter I
+19806,379,Target Painter II
+19808,379,Partial Weapon Navigation
+19810,379,Peripheral Weapon Navigation Diameter
+19812,379,Parallel Weapon Navigation Transmitter
+19814,379,Phased Weapon Navigation Array Generation Extron
+21540,379,'Inception' Target Painter I
+28580,379,TEST Graviton Beam I
+31944,379,Republic Fleet Target Painter
+32414,379,Domination Target Painter
+529,67,Small Energy Transfer Array I
+1190,67,Small Energy Transfer Array II
+5087,67,Partial E95a Power Conduit
+5089,67,Murky Energy Transmitter I
+5091,67,'Regard' I Power Projector
+5093,67,Asymmetric Energy Succor I
+12102,67,Large Energy Transfer Array II
+12217,67,Medium Energy Transfer Array I
+12219,67,Capital Energy Transfer Array I
+12221,67,Medium Energy Transfer Array II
+12223,67,Capital Energy Transfer Array II
+12225,67,Large Energy Transfer Array I
+16481,67,Large Asymmetric Energy Succor I
+16483,67,Large Murky Energy Transmitter I
+16485,67,Large Partial E95c Power Conduit
+16487,67,Large 'Regard' I Power Projector
+16489,67,Medium Asymmetric Energy Succor I
+16491,67,Medium Murky Energy Transmitter I
+16493,67,Medium Partial E95b Power Conduit
+16495,67,Medium 'Regard' I Power Projector
+19065,67,Corpii C-Type Small Energy Transfer Array
+19067,67,Corpii B-Type Small Energy Transfer Array
+19069,67,Corpii A-Type Small Energy Transfer Array
+19071,67,Centii C-Type Small Energy Transfer Array
+19073,67,Centii B-Type Small Energy Transfer Array
+19075,67,Centii A-Type Small Energy Transfer Array
+19077,67,Corpum C-Type Medium Energy Transfer Array
+19079,67,Corpum B-Type Medium Energy Transfer Array
+19081,67,Corpum A-Type Medium Energy Transfer Array
+19083,67,Centum C-Type Medium Energy Transfer Array
+19085,67,Centum B-Type Medium Energy Transfer Array
+19087,67,Centum A-Type Medium Energy Transfer Array
+23852,67,'Squire' Small Energy Transfer Array I
+23854,67,'Knight' Medium Energy Transfer Array I
+23856,67,'Chivalry' Large Energy Transfer Array I
+31946,67,Imperial Navy Large Energy Transfer Array
+31948,67,Imperial Navy Medium Energy Transfer Array
+31950,67,Imperial Navy Small Energy Transfer Array
+27904,585,Large Remote Hull Repair System I
+27930,585,Medium Remote Hull Repair System I
+27932,585,Small Remote Hull Repair System I
+27934,585,Capital Remote Hull Repair System I

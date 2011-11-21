@@ -1,0 +1,88 @@
+.join {
+	background-image: url(ext-3.1.0/examples/shared/icons/fam/user_add.gif) !important;
+}
+
+.leave {
+	background-image: url(ext-3.1.0/examples/shared/icons/fam/user_delete.gif) !important;
+}
+
+.create {
+	background-image: url(ext-3.1.0/examples/shared/icons/fam/add.gif) !important;
+}
+
+.remove {
+	background-image: url(ext-3.1.0/examples/shared/icons/fam/cross.gif) !important;
+}
+
+.delete {
+	background-image: url(ext-3.1.0/examples/shared/icons/fam/cross.gif) !important;
+}
+
+.refresh {
+	background-image: url(ext-3.1.0/examples/shared/icons/fam/table_refresh.png) !important;
+}
+
+.back {
+	background-image: url(ext-3.1.0/examples/shared/icons/fam/control_rewind.png) !important;
+}
+
+.stop {
+	background-image: url(ext-3.1.0/examples/shared/icons/fam/delete.gif) !important;
+}
+
+.edit {
+	background-image: url(ext-3.1.0/examples/shared/icons/fam/cog_edit.png) !important;
+}
+
+.person {
+	background-image: url(ext-3.1.0/examples/shared/icons/fam/user_suit.png) !important;
+}
+
+.xoPerson {
+	background-image: url(ext-3.1.0/examples/shared/icons/fam/user_orange.png) !important;
+}
+
+.track {
+	background-image: url(images/TRACKINGDISRUPTOR.ico) !important;
+}
+
+.damp {
+	background-image: url(images/SENSORDAMPENER.ico) !important;
+}
+
+.privacy {
+	background-image: url(images/privacy.gif) !important;
+}
+
+.info {
+	background-image: url(ext-3.1.0/examples/shared/icons/fam/information.png) !important;
+}
+
+.save {
+	background-image: url(ext-3.1.0/examples/shared/icons/fam/save.gif) !important;
+}
+
+.purple-row .x-grid3-cell-inner{
+	color:purple;
+	font-weight: bolder;
+}
+
+.blue-row .x-grid3-cell-inner{
+	color:blue;
+	font-weight: bolder;
+}
+
+.red-row .x-grid3-cell-inner{
+	color:red;
+	font-weight: bolder;
+}
+
+.pink-row .x-grid3-cell-inner{
+	color:Fuchsia;
+	font-weight: bolder;
+}
+
+.orange-row .x-grid3-cell-inner{
+	color:#FF8C00;
+	font-weight: bolder;
+}
