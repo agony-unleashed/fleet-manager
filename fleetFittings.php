@@ -256,12 +256,14 @@ function getItemInfo($id) {
 // removes http://fitting:
 // http://fitting:627:11267;1:7665;3:12052;1:11317;1:4025;1:3130;2:11103;2:2046;1:5439;1:2183;5::
 function filterDNA($shipDNA) {
-	if(strlen($shipDNA) > 10) {
-		if(strncmp($shipDNA, "http://fitting:", 15) == 0) {
-			return substr($shipDNA, 15);
-		}
-	}
-	return $shipDNA;
+    $leader = stripos($shipDNA, "url=fitting");
+    $cleanDNA = substr($shipDNA, ($leader !== FALSE) ? $leader+11 : 0);
+    $trailer = strpos($cleanDNA, ">");
+    if ($trailer === FALSE) {
+        return $cleanDNA;
+    } else {
+        return substr($cleanDNA, 0, $trailer);
+    }
 }
 
 function parseDNA($shipDNA) {
